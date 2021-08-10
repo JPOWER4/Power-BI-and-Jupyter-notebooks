@@ -1,0 +1,16 @@
+1. Power BI Service - Lab 1
+2. Power BI desktop - https://www.microsoft.com/en-us/download/details.aspx?id=58494
+3. Power BI Report Builder - https://www.microsoft.com/en-us/download/details.aspx?id=58158
+4. Power BI Report Server - https://powerbi.microsoft.com/en-us/report-server/
+5. SQL Server developer Subcription - https://go.microsoft.com/fwlink/?linkid=866662
+6. Python 3.9.6 - https://www.python.org/downloads/release/python-396/
+7. Visual Studio Code - https://code.visualstudio.com/
+8. On-Premises DataGateway - https://docs.microsoft.com/en-us/data-integration/gateway/service-gateway-install
+pip install powerbiclient 
+pip install wheel
+pip install pandas
+
+jenkinsns@deloittepowerbi.onmicrosoft.com
+
+
+
